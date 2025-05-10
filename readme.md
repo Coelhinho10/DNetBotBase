@@ -61,4 +61,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-Made with 💻 by Coelhinho
+Made with 💻 by Ybson Coelho
